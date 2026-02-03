@@ -1,0 +1,14 @@
+# executables
+*.exe
+
+# build files
+*.o
+*.out
+
+# generated data
+big_docs.txt
+
+# OS / editor
+.vscode/
+.idea/
+.DS_Store
